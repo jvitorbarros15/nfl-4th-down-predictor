@@ -71,16 +71,10 @@ subsample = 0.8
 colsample_bytree = 0.8
 objective = binary:logistic
 
-css
-Copiar código
-
 The model outputs a **probability**, which can be interpreted on a scale of:
 
 0.0 → very unlikely to convert
 1.0 → extremely likely to convert
-
-yaml
-Copiar código
 
 This makes it useful for **in-game decision-making** or analytics dashboards.
 
