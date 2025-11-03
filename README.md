@@ -1,6 +1,6 @@
 # nfl-4th-down-predictor
 
-# 🏈 NFL 4th Down Conversion Predictor (2013–2023)
+# 🏈 NFL 4th Down Conversion Predictor (2013–2024)
 
 This project predicts the probability of converting 4th down attempts in NFL games. I started loving football recently, and one of my favorite parts of the game is when teams decide to **go for it** on 4th down. It’s bold, emotional, strategic, and sometimes completely game-changing.
 
@@ -14,7 +14,7 @@ Using 10 years of NFL play-by-play data, I built a machine learning model that e
 
 ## 📦 Data
 
-- **Source:** NFL play-by-play data (2013–2023)
+- **Source:** NFL play-by-play data (2013–2024)
 - **Dataset Size:** ~480,000 plays
 - **Filtered Down To:** Actual 4th down attempts (rush or pass, not penalties)
 
